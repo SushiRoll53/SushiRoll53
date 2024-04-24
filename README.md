@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Low-Code/No-Code Design File to Flutter (Parabeac-core)
+- 🔭 Worked on Low-Code/No-Code Design File to Flutter (Parabeac-core)
 - 🕵️‍♂️ I'm on the case
-- 🧋 Fact: I love boba (bubble tea) Jasmine, Taro & Brown Sugar
+- 🧋 Fact: I love boba (bubble tea) jasmine tea, Taro & Brown Sugar
 
 <h2> My Current Tech Stack </h2>
 
