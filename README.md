@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+- 👾 Interested in building videogames 
 - 🔭 Worked on Low-Code/No-Code Design File to Flutter (Parabeac-core)
 - 🕵️‍♂️ I'm on the case
-- 🧋 Fact: I love boba (bubble tea) jasmine tea, Taro & Brown Sugar
+- 🧋 Fact: I like boba, jasmine tea, taro, coffee, and matcha.
 
 <h2> My Current Tech Stack </h2>
 
